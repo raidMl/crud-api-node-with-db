@@ -1,0 +1,25 @@
+{
+  "name": "crud-api-node-with-db",
+  "version": "1.0.0",
+  "description": "crud api node express with db mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server":"node server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raidMl/crud-api-node-with-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raidMl/crud-api-node-with-db/issues"
+  },
+  "homepage": "https://github.com/raidMl/crud-api-node-with-db#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
